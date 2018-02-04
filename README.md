@@ -1,6 +1,6 @@
 # Calc
 
-**TODO: Add description**
+Working Elixir calculator. Run from the Elixir REPL with Calc.main().
 
 ## Installation
 
